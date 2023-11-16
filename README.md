@@ -1,5 +1,5 @@
 # uniwork
-Collection of small assignments from University.
+Collection of small projects from University.
 
 ### Courses:
 - Advanced Databases
